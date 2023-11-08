@@ -13,11 +13,11 @@ In this tutorial, we present an example of using [DESPOT](https://github.com/Ada
 
 Tested Operating Systems:
 
-| Ubuntu 14.04     
+| Ubuntu 20.04     
 | :-------------: 
 |[![Build Status](https://semaphoreapp.com/api/v1/projects/d4cca506-99be-44d2-b19e-176f36ec8cf1/128505/shields_badge.svg)](https://semaphoreapp.com/boennemann/badges)    
 
-Dependencies: DESPOT, ROS Indigo+, Boost 1.55+, Gazebo 2+
+Dependencies: DESPOT, ROS Noetic, Boost 1.55+, Gazebo 2+
 
 ## Prerequisites
 
